@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "564343703037",
+    "project_id": "alchemy-verication",
+    "storage_bucket": "alchemy-verication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564343703037:android:3c485f2050290b0d208594",
+        "android_client_info": {
+          "package_name": "com.alchemy_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564343703037-qfq19ck29udhei794ej4diqdsdfvd8i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alchemy_task",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "564343703037-gcq6uqjmfq1802k7m2ct5588cskrghok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC325pJuUsJhgOXy3UWZoGk7tdkzmYRGyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564343703037-gcq6uqjmfq1802k7m2ct5588cskrghok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
